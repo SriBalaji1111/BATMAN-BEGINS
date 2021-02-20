@@ -58,7 +58,7 @@ function draw() {
     image(bg,-1,-1,500,900);
     umbrella.display();
     image(land,-1,870,500,30);
-    Man.addAnimation(Man,200,550);
+    animation(Man,200,550);
     
     
 
